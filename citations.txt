@@ -1,0 +1,13 @@
+Kavitha Dhanukodi 912916237 Homework 5
+
+Citations:
+1. Problem Solving and Program Design in C, J. Hanley & E. Koffman, 8th edition, 978-0134243948
+
+2. Iyesha Puri and I discussed the logic for part 2 regarding memory allocation for the matrix, and freeing the memory for the matrix. We met on March 7th in Kemper 75.
+
+3. ECS30 TA Aditi Garg helped me understand the logic of the generations and integrating the correct functions for the cells on March 9th in Kemper 53 during office hours.
+
+4. Discussion 6:
+   -Learned the logic of linked lists in discussion
+   -Learned how to make the Makefile
+
